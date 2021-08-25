@@ -1,0 +1,22 @@
+.DS_Store
+
+
+# Eclipse
+.metadata
+.gradle
+bin
+tmp/
+##gradle/
+
+*.tmp
+.project
+.settings
+
+## IntelliJ
+*.iml
+.idea/
+
+### Gradle ###
+build/
+out/
+*.class
